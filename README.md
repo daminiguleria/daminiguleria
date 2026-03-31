@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+I am DAMINI GULERIA an aspiring software developer.
+I design and Build things based on my tech stack. 
+My tech Stack is REACT,TYPESCRIPT,JAVASCRIPT,Node,express,HTML,CSS,tailwind,C++. 
+I have solved more than 500+ dsa questions in cpp.
+Apart from this I know OS,DBMS,NETWORKING ,GIT,GITHUB,https.
 <!--
 **daminiguleria/daminiguleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

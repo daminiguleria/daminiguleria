@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am DAMINI GULERIA FROM INDIA
 I am DAMINI GULERIA an aspiring software developer.
 I design and Build things based on my tech stack. 
 My tech Stack is REACT,TYPESCRIPT,JAVASCRIPT,Node,express,HTML,CSS,tailwind,C++. 
